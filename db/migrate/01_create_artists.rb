@@ -15,6 +15,7 @@ class CreateArtists < ActiveRecord::Migration[5.2]
       t.integer :age
       t.string :hometown
     end
+    end
   end
 
 
